@@ -12,5 +12,5 @@ sleep 2
 echo "........"
 sleep 2
 echo "..........."
-docker-compose build web
+docker compose build web
 echo "..................."
